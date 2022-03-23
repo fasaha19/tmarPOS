@@ -1,0 +1,28 @@
+
+2020-05-16 01:36:51
+functionName:addEmployee
+Array
+(
+    [name] => Admin
+    [phone] => 123467898
+    [phone1] => 234567909
+    [type] => Daily
+    [addr] => wsdfjhhhhg
+    [sal] => 76
+    [pwd] => 76
+    [cnfpwd] => 767
+)
+
+2020-05-16 05:21:09
+functionName:addEmployee
+Array
+(
+    [name] => MOHAMMED_TALHA
+    [phone] => 8667851162
+    [addr] => 29/18B_AMEEN_BA_STREET_CROSS,_MELVISHARAM
+    [type] => Monthly
+    [phone1] => 08667851162
+    [sal] => 9000
+    [pwd] => 12343
+    [cnfpwd] => 12343
+)

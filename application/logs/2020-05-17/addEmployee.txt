@@ -1,0 +1,84 @@
+
+2020-05-17 03:51:24
+functionName:addEmployee
+Array
+(
+    [name] => Admin
+    [phone] => dasa
+    [phone1] => dasda
+    [type] => Daily
+    [addr] => sdaasda
+    [sal] => adsdasd
+    [pwd] => dasds
+    [cnfpwd] => saddssda
+)
+
+2020-05-17 03:51:42
+functionName:addEmployee
+Array
+(
+    [name] => Admin
+    [phone] => dasa
+    [phone1] => dasda
+    [type] => Daily
+    [addr] => sdaasda
+    [sal] => adsdasd
+    [pwd] => dasds
+    [cnfpwd] => saddssda
+)
+
+2020-05-17 04:03:06
+functionName:addEmployee
+Array
+(
+    [name] => sjdhak
+    [phone] => 123456789
+    [phone1] => 1234567890
+    [type] => Daily
+    [addr] => sdaasda
+    [sal] => 1233
+    [pwd] => 1234
+    [cnfpwd] => 1234
+)
+
+2020-05-17 04:04:24
+functionName:addEmployee
+Array
+(
+    [name] => sjdhak
+    [phone] => 123456789
+    [phone1] => 1234567890
+    [type] => Daily
+    [addr] => sdaasda
+    [sal] => 1233
+    [pwd] => 1234
+    [cnfpwd] => 1234
+)
+
+2020-05-17 04:11:49
+functionName:addEmployee
+Array
+(
+    [name] => asashj
+    [phone] => 123213123
+    [phone1] => 12312321321
+    [type] => Monthly
+    [addr] => 213,aasddasdas
+    [sal] => 123
+    [pwd] => 123123
+    [cnfpwd] => 123123
+)
+
+2020-05-17 04:14:12
+functionName:addEmployee
+Array
+(
+    [name] => asashj
+    [phone] => 123213123
+    [phone1] => 12312321321
+    [type] => Monthly
+    [addr] => 213,aasddasdas
+    [sal] => 123
+    [pwd] => 123123
+    [cnfpwd] => 123123
+)

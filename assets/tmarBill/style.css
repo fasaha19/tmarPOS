@@ -1,0 +1,129 @@
+/* set page size */
+@page { size: A4}
+
+
+body{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+
+.parent-grid {
+    display: grid;
+    grid-template-columns: 1fr;
+    grid-template-rows: 0.1fr 0.4fr auto 0.1fr auto;
+    grid-column-gap: 0px;
+    grid-row-gap: 0px;
+    border: 1px solid black;
+    height: 100%;
+}
+
+.title{
+    font-weight: bold;
+    padding: 4px 0px;
+    border: 1px solid black;
+    border-top: none;
+    border-right: none;
+    border-left: none;
+}
+
+.bold{
+    font-weight: bolder;
+}
+
+.child-1{
+        display: grid;
+        grid-template-columns:0.5fr 1.21fr 0.92fr;
+        grid-template-rows: 1fr;
+        grid-column-gap: 0px;
+        grid-row-gap: 0px;
+}
+
+.child-3 {
+    display: grid;
+    grid-template-columns: 1.4fr  0.4fr 0.22fr;
+    grid-template-rows: 1fr;
+    grid-column-gap: 0px;
+    grid-row-gap: 0px;
+    border: 1px solid black;
+    }
+
+    .child-4 {
+        display: grid;
+        grid-template-columns: 1.35fr  0.6fr;
+        grid-template-rows: 1fr;
+        grid-column-gap: 0px;
+        grid-row-gap: 0px;
+        border: 1px solid black;
+        }
+
+        .bt-none{
+            border-top: none !important;
+        }
+
+        .bb-none{
+            border-bottom: none !important;
+        }
+        .br-none{
+            border-right: none !important;
+        }
+        .bl-none{
+            border-left: none !important;
+        }
+
+.child-1-sibling-1 {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    grid-template-rows: 0.2fr 0.25fr -0.05fr;
+    grid-column-gap: 0px;
+    grid-row-gap: 0px;
+    border: 1px solid black;
+    border-right:none;
+    border-bottom: none;
+    /* justify-items: center; */
+}
+
+.child-2{
+        display: grid;
+        grid-template-columns: 0.3fr 1.3fr 1.8fr 1fr 1.3fr 0.3fr 0.5fr 0.8fr 0.5fr 1fr;
+        grid-template-rows: repeat(15, 1fr);
+        grid-column-gap: 0px;
+        grid-row-gap: 0px;
+}
+
+.header{
+    text-align: center;
+    border: 1px solid black;
+    border-right: none;
+}
+
+.row-content{
+    text-align: left;
+    border: 1px solid black;
+    border-right: none; 
+    border-top: none; 
+    text-align: center;
+}
+.row-content>h6{
+    font-weight: 100 !important;
+}
+
+.d-flex{
+    display: flex;
+    align-items: flex-start;
+}
+
+.text-center
+{
+   text-align: center;
+}
+
+h1,h2,h3,h4,h5,h6{
+    margin: 0 !important;
+}
+
+.border{
+    border: 1px solid black;
+}
+

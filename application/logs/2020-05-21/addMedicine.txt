@@ -1,0 +1,69 @@
+
+2020-05-21 09:55:20
+functionName:addMedicine
+
+2020-05-21 09:55:40
+functionName:addMedicine
+
+2020-05-21 09:56:22
+functionName:addMedicine
+
+2020-05-21 09:56:43
+functionName:addMedicine
+
+2020-05-21 09:57:12
+functionName:addMedicine
+{"medicinename":"majeed","combination":"CIPROFLOXACIN","hsn":"knnkj","schedule":"H","brand":"klmlkm","gst":"klk","rack":"jknnjk"}
+2020-05-21 09:58:13
+functionName:addMedicine
+Array
+(
+    [medicinename] => majeed
+    [combination] => CIPROFLOXACIN
+    [hsn] => knnkj
+    [schedule] => H
+    [brand] => klmlkm
+    [gst] => klk
+    [rack] => jknnjk
+)
+
+2020-05-21 10:26:57
+functionName:addMedicine
+Array
+(
+    [medicinename] => majeed
+    [combination] => CIPROFLOXACIN
+    [hsn] => 3401
+    [schedule] => H
+    [brand] => ds
+    [gst] => jbjbjhj
+    [rack] => njkjk
+)
+
+2020-05-21 10:28:08
+functionName:addMedicine
+Array
+(
+    [medicinename] => majeed
+    [combination] => SALBUTAMOL
+    [hsn] => 3401
+    [schedule] => H
+    [brand] => CIPLA
+    [gst] => 15
+    [rack] => L5
+)
+
+2020-05-21 09:08:34
+functionName:addMedicine
+Array
+(
+    [expiry] => 2019-12-30T18:30:00_000Z
+    [quantity] => 10
+    [batchno] => H
+    [salesrate] => 500
+    [purchaserate] => 400
+    [marketrate] => 550
+    [suppliername] => VAS
+    [profitmargin] => 10
+    [invoice] => 3421d
+)

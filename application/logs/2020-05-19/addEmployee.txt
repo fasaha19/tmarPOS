@@ -1,0 +1,109 @@
+
+2020-05-19 07:51:07
+functionName:addEmployee
+
+2020-05-19 07:54:50
+functionName:addEmployee
+
+2020-05-19 08:05:36
+functionName:addEmployee
+Array
+(
+    [name] => user
+    [phone] => 2345634566
+    [phone1] => 12345623455
+    [type] => Daily
+    [addr] => 12345,agsStreet
+    [sal] => 200
+    [pwd] => 12345
+)
+
+2020-05-19 08:37:31
+functionName:addEmployee
+Array
+(
+    [name] => userq
+    [phone] => 1234567
+    [phone1] => 456789999
+    [type] => Daily
+    [addr] => 123,hqwkjehqwj
+    [sal] => 200
+    [pwd] => 123456
+)
+
+2020-05-19 08:47:05
+functionName:addEmployee
+Array
+(
+    [name] => userwer
+    [phone] => 123456790
+    [phone1] => 1234567890
+    [type] => Daily
+    [addr] => 1234,gasgag
+    [sal] => 200
+    [pwd] => 1234
+)
+
+2020-05-19 08:48:53
+functionName:addEmployee
+Array
+(
+    [name] => userqqa
+    [phone] => 2345678901
+    [phone1] => 45678901234
+    [type] => Daily
+    [addr] => 123,hgasgahsg
+    [sal] => 200
+    [pwd] => 1234567
+)
+
+2020-05-19 08:53:00
+functionName:addEmployee
+Array
+(
+    [name] => useraaa
+    [phone] => 1234566699
+    [phone1] => 1234567888
+    [type] => Daily
+    [addr] => qwewq
+    [sal] => 213
+    [pwd] => 123123
+)
+
+2020-05-19 08:53:55
+functionName:addEmployee
+Array
+(
+    [name] => llllll
+    [phone] => 098765433
+    [phone1] => 7778889990
+    [type] => Daily
+    [addr] => 1234567877
+    [sal] => 88
+    [pwd] => 0987
+)
+
+2020-05-19 01:42:43
+functionName:addEmployee
+Array
+(
+    [name] => userawsd
+    [phone] => 1234567878
+    [phone1] => 1234567666
+    [type] => Daily
+    [addr] => 123,qehiqwhhih
+    [pwd] => 12345
+)
+
+2020-05-19 01:56:01
+functionName:addEmployee
+Array
+(
+    [name] => user
+    [phone] => 1234567867
+    [phone1] => 8888877777
+    [type] => Daily
+    [addr] => 123456sdfghjkdfghj
+    [sal] => 123
+    [pwd] => 12345
+)

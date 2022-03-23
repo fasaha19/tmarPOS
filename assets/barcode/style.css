@@ -1,0 +1,71 @@
+body {
+  background: rgb(204, 204, 204);
+}
+page {
+  background: white;
+  display: block;
+  margin: 0 auto;
+  margin-bottom: 0.5cm;
+  box-shadow: 0 0 0.5cm rgba(0, 0, 0, 0.5);
+}
+page[size="sticker"] {
+  width: 4in;
+  height: 1in;
+}
+page[size="sticker"][layout="landscape"] {
+  width: 4in;
+  height: 1in;
+}
+
+@media print {
+  page {
+    margin: 0;
+    box-shadow: 0;
+  }
+}
+
+@media print {
+  page {
+    page-break-after: always;
+  }
+}
+
+.invoice {
+  width: 2in;
+  height: 1in;
+  border-radius: 5px;
+  padding: 6px;
+  border: 1px solid rgb(0, 0, 0);
+  background: white;
+}
+
+.d-flex {
+  display: flex;
+}
+
+.invoice-grid {
+  display: grid;
+  grid-template-columns: 3fr 3fr 5fr;
+  grid-template-rows: repeat(3, 0.18fr);
+  grid-column-gap: -5px;
+  grid-row-gap: -5px;
+}
+
+.text-right {
+  text-align: right;
+}
+.text-left {
+  text-align: left;
+}
+.text-center {
+  text-align: center;
+}
+
+.f-1 {
+  font-size: 12px;
+  font-weight: 900;
+}
+
+.mb-2 {
+  margin-bottom: 5px;
+}
